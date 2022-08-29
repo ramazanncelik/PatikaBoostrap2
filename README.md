@@ -1,2 +1,2 @@
-# PatikaBoostrap2
- instagram clone with Boostrapt.
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
